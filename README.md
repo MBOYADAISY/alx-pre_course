@@ -1,1 +1,1 @@
-created a directory called git
+a non empty README

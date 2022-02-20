@@ -1,1 +1,1 @@
-my first Readme
+created a directory called git
